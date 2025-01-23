@@ -47,6 +47,7 @@
 }
 .bannerform {
     padding: 40px;
+    border-radius: 10px;
 }
 .bannerform h3 {
     font-size: 1.25rem;
@@ -58,4 +59,9 @@
     background: linear-gradient(to right, #0acefe,#2699fb);
     border: none;
     color: #ffffff;
+}
+.countersection h2 {
+    font-size: 30px;
+    font-weight: 700;
+    color: #2699fb;
 }
