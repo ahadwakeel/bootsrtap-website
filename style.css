@@ -1,6 +1,9 @@
 * {
     font-family: "Inter", serif;
 }
+.nav-color {
+    background: linear-gradient(to right,#0acefe,#2699fb);
+}
 .whatsappbtn {
     border: 1px solid #27af60;
     padding: 10px 18px;
@@ -85,4 +88,18 @@
 }
 .highlightsitem p {
     font-size: 0.8125rem;
+}
+.bookbtn {
+    justify-content: center;
+    align-items: center;
+    color: #2699fb;
+}
+.highlights-section button {
+    background: linear-gradient(to right,#0acefe,#2699fb);
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 30px;  
+}
+.offca {
+    background: linear-gradient(to right, #0acefe,#2699fb);
 }
