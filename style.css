@@ -103,3 +103,23 @@
 .offca {
     background: linear-gradient(to right, #0acefe,#2699fb);
 }
+.coloraa {
+    background-color:#d8d3d3 ;
+}
+.tabitemscontent  ul {
+    list-style: none;
+}
+.tabitemscontent ul i {
+    color: green;
+}
+.bookbtn2 {
+    justify-content: center;
+    align-items: center;
+}
+.Curriculum button {
+    background: linear-gradient(to right,#0acefe,#2699fb);
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 30px;
+}
